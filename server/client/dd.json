@@ -1,0 +1,20 @@
+[{
+    "body":{
+        "title":"Coffee",
+        "description":"The best coffee shop near your area is now OPEN!"
+    },
+    "img":[
+        {"img":"https://drive.google.com/uc?export=view&id=15SHhRX4i455jufcIHX_htc-HPY6mBSaD"},
+        {"img":"https://drive.google.com/uc?export=view&id=1ISc86BjljdyD6mx7r7FYUoH1gUPruxsw"},
+        {"img":"https://drive.google.com/uc?export=view&id=1CETigPGE81HjEXn7_i0G05R_bShdoF8i"},
+        {"img":"https://drive.google.com/uc?export=view&id=1RScIOPxN4YMTF_izP-B9VUaiYYy6eG6x"},
+        {"img":"https://drive.google.com/uc?export=view&id=1CI5ocg9QBWPYbiWutDZ7FRFMh_7cRxxK"},
+        {"img":"https://drive.google.com/uc?export=view&id=1GPpyUEInxcP_f4cj4gYP4wWykrwOiFe4"},
+        {"img":"https://drive.google.com/uc?export=view&id=1czDVZELSGRXouFK2TWzZC6yiJ4U5GjNk"},
+        {"img":"https://drive.google.com/uc?export=view&id=1LkqKz6PZ_FXlzLr3R-yf5U0Hk8eoIio4"},
+        {"img":"https://drive.google.com/uc?export=view&id=1oerGQRTDB-uiuRXQ2YCA7APT0y_69c92"}
+    ],
+    "imgMain":"https://drive.google.com/uc?export=view&id=1B0wGTFyO0DwabMbxNSPR50JW0rLERl8c",
+    "imgAbout":"https://drive.google.com/uc?export=view&id=1lskgX6P8L_urJoJOhz4NACJWzRI_NSDd"
+    
+}]
