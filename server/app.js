@@ -55,6 +55,6 @@ if(process.env.NODE_ENV === 'production' || process.env.NODE_ENV === 'staging'){
 //     }
 // })
 
-app.listen(port , () => {
-    console.log(`Server running at ${port}`);
-});
+// app.listen(port , () => {
+//     console.log(`Server running at ${port}`);
+// });
